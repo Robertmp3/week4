@@ -1,0 +1,25 @@
+body{
+background-color: white;
+}
+h1{
+   font-family: 'Raleway', sans-serif;
+   color: lightblue;
+   font-weight: 400x
+   text-shadow: 2px 2px 3px #000;
+}
+.fa-user-circle {
+   font-size: 60px;
+   color: lightblue;
+}
+.header #logo{
+   font-family: Raleway ;
+   color: lightblue;
+   font-weight: 700;
+   text-shadow: 2px 2px 3px #000;
+   display: inline-block;
+   border-style: solid;
+}
+.header .nav{
+   float: right;
+   
+}
